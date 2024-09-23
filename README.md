@@ -4,6 +4,3 @@ Networking notes.
 all notes for placement.
 .
 .
-.
-.
-.
